@@ -1,0 +1,47 @@
+/* registration modal */
+
+/* .lrm-user-modal {
+  display: block;
+  opacity: 1;
+  visibility: visible !important;
+}
+
+.lrm-signup-section {
+  display: block;
+} */
+
+.lrm-user-modal-container {
+  padding: 61px 100px 54px !important;
+  background: #040c1d;
+}
+
+.lrm-close-form {
+  top: 0;
+}
+
+p.lrm-form-bottom-message {
+  text-align: right;
+  bottom: -20px;
+
+}
+
+.lrm-user-modal p.lrm-form-bottom-message a {
+  text-decoration: none;
+}
+
+.lrm-nice-checkbox__label input:checked~.lrm-nice-checkbox__indicator {
+  background: #22c922 !important;
+  border-color: #22c922 !important;
+}
+
+.lrm-form {
+  padding: 0 !important;
+}
+
+.lrm-signup-section .fieldset--submit {
+  margin: 40px 0;
+}
+
+.window .title .sup {
+  right: 0;
+}
